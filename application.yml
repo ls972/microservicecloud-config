@@ -27,3 +27,4 @@ spring:
     
    application:
         
+       name: microservicecloud-config-hiway-test
